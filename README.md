@@ -34,6 +34,7 @@ Don't mind me but: insert <a href="https://chrome.google.com/webstore/detail/you
 </p>
 
 \
+\
 I made my <a href="sharisun.me">portfolio</a> website in Dec 2019 when I just learned React so it was not the best in terms of UI and code, but a visible improvement can be seen from the <a href="http://sharisun.me">stuco </a> site from 2020 summer.
 <p>
 <a href="https://github.com/shari09/StuCo-Website-Redesigned">
@@ -57,7 +58,8 @@ If you wonder why my "Most Used Language" is Java, it's because school projects 
   
 </p>
 
-
+\
+\
 I've also been to a couple hackathons with my friends before through the years. I'll list them in latest to earliest order since I have improved quite a bit since my very first hackathon a couple years ago (me back then: what is a server 0.0).
 
 My favourite one: <a href="https://devpost.com/software/minute-aid">Minute Aid</a>
