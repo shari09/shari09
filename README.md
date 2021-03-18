@@ -5,10 +5,13 @@
 </p>
 
 Hello I'm Shari (rhymes with "cherry" and not "safari")!
+
 \
 Disclaimer: you may encounter a lot of grammar errors (I sure hope this is not for any formal purposes, if so, uhh... don't worry about this page then. I promise I can write better formally :::)))))))
+
 \
 Mmm, I'm not sure what to include here, but I'm betting 90% of the people reading this is either from RHHS, or people I know, so I assume you guys know enough about it. I love 50% sugar bubble tea with tapioca, watching movies or dramas, eating good food, and sleeping.
+
 \
 \
 \
