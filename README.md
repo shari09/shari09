@@ -38,7 +38,7 @@ Don't mind me but: insert <a href="https://chrome.google.com/webstore/detail/you
 I made my <a href="sharisun.me">portfolio</a> website in Dec 2019 when I just learned React so it was not the best in terms of UI and code, but a visible improvement can be seen from the <a href="http://sharisun.me">stuco </a> site from 2020 summer.
 <p>
 <a href="https://github.com/rhhsstuco/StuCo-Website-Redesigned">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shari09&repo=StuCo-Website-Redesigned&theme=chartreuse-dark"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rhhsstuco&repo=StuCo-Website-Redesigned&theme=chartreuse-dark"/>
   </a>
   <a href="https://github.com/shari09/portfolio">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shari09&repo=portfolio&theme=chartreuse-dark"/>
