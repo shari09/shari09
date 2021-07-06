@@ -12,6 +12,9 @@ Disclaimer: you may encounter a lot of grammar errors (I sure hope this is not f
 \
 Mmm, I'm not sure what to include here, but I'm betting 90% of the people reading this is either from RHHS, or people I know, so I assume you guys know enough about it. I love 50% sugar bubble tea with tapioca, watching movies or dramas, eating good food, and sleeping.
 
+  
+  
+  
 <p>
   <a href="https://github.com/shari09">
      <img align="left" src="https://github-readme-stats.vercel.app/api?username=shari09&theme=tokyonight&hide=stars&count_private=true&hide_rank=true"/>
