@@ -11,19 +11,14 @@ Disclaimer: you may encounter a lot of grammar errors (I sure hope this is not f
 
 \
 Mmm, I'm not sure what to include here, but I'm betting 90% of the people reading this is either from RHHS, or people I know, so I assume you guys know enough about it. I love 50% sugar bubble tea with tapioca, watching movies or dramas, eating good food, and sleeping.
-
-  
-  
   
 <p>
   <a href="https://github.com/shari09">
-     <img align="left" src="https://github-readme-stats.vercel.app/api?username=shari09&theme=tokyonight&hide=stars&count_private=true&hide_rank=true"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shari09&theme=tokyonight&hide=stars&count_private=true&hide_rank=true"/>
   </a>
 </p>
 
 
-\
-\
 \
 However, I always lack sleep due to various reasons. Sometimes I have a personal project that I'm super passionate about and you can find me drinking coffee and pulling all-nighters, or I can have a school project that I'm less passionate about but you can *still* find me not sleeping because well... it's a school project.
 \
