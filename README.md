@@ -41,7 +41,7 @@ Don't mind me but: insert <a href="https://chrome.google.com/webstore/detail/you
 
 \
 \
-I made my <a href="sharisun.me">portfolio</a> website in Dec 2019 when I just learned React so it was not the best in terms of UI and code, but a visible improvement can be seen from the <a href="http://sharisun.me">stuco </a> site from 2020 summer.
+I made my <a href="https://shari09.github.io/portfolio">portfolio</a> website in Dec 2019 when I just learned React so it was not the best in terms of UI and code, but a visible improvement can be seen from the <a href="https://rhhsstuco.ca">stuco </a> site from 2020 summer.
 <p>
 <a href="https://github.com/rhhsstuco/StuCo-Website-Redesigned">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rhhsstuco&repo=StuCo-Website-Redesigned&theme=chartreuse-dark"/>
